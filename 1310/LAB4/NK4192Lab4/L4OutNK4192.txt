@@ -1,0 +1,155 @@
+Printing the valid values in a table format.
+
+
+First                     Last                 Age        Birthday             Gender     Relationship        
+======================================================================================================
+
+Sandra Carter             Williams Schou       74.00      23/ 9/1935           F          mother              
+Albert                    Matheny              58.00      15/10/1969           M          brother             
+Stanley                   Son Jae              63.00      29/ 9/1958           N          friend              
+Chris                     McKay                52.50      19/ 5/1969           F          sister              
+Tim                       Mayor-Domo           58.00      23/ 2/1963           M          brother-in-law      
+Kermit                    The Frog             18.00       9/ 5/1955           M          hero                
+Ahmed                     Ebrahimi             41.00      18/ 7/1979           M          previous_boss       
+Holly                     Lane                 0.75       13/ 3/2021           F          goddaughter         
+Dale                      Vetenari-Vines       28.00       8/ 8/2001           U          colleague           
+John Nathan               Colcord              71.00      12/ 2/1950           M          spouse              
+Mildred Carter McKay      Williams             102.00     20/ 9/1902           F          grandmother         
+Liz                       Patel                30.00      20/12/1991           F          friend              
+Dr. Karan                 Harbison             48.00       9/ 9/1951           N          faculty_mentor      
+Stefan                    Kilibarda            25.00      26/ 4/1996           M          brother             
+Zeljka                    Kilibarda            49.00       9/12/1971           F          mom                 
+Jovana Kuro               Djuro                21.00      22/ 1/2000           M          friend              
+Moto-Moto                 Madagascar           74.00      14/11/1947           F          neighbor            
+Knez Mihajlo              Obrenovic            44.00       4/ 9/1823           M          hero                
+Amelie44                  Kitty-cat            1.50       20/ 5/2020           U          cat                 
+Donald John               Trump                75.00      14/ 6/1946           M          president           
+Jermaine                  Cole                 36.00      28/ 1/1985           M          barber              
+Marko                     Losic                22.00      16/11/1999           M          roommate            
+Li                        Jui Tseng            21.00      18/10/2000           M          classmate           
+Alan                      Watts                58.00       6/ 1/1915           M          spirit_guide        
+
+
+Sorting the ages in ascending order.
+
+
+First                     Last                 Age        Birthday             Gender     Relationship        
+======================================================================================================
+
+Holly                     Lane                 0.75       13/ 3/2021           F          goddaughter         
+Amelie44                  Kitty-cat            1.50       20/ 5/2020           U          cat                 
+Kermit                    The Frog             18.00       9/ 5/1955           M          hero                
+Jovana Kuro               Djuro                21.00      22/ 1/2000           M          friend              
+Li                        Jui Tseng            21.00      18/10/2000           M          classmate           
+Marko                     Losic                22.00      16/11/1999           M          roommate            
+Stefan                    Kilibarda            25.00      26/ 4/1996           M          brother             
+Dale                      Vetenari-Vines       28.00       8/ 8/2001           U          colleague           
+Liz                       Patel                30.00      20/12/1991           F          friend              
+Jermaine                  Cole                 36.00      28/ 1/1985           M          barber              
+Ahmed                     Ebrahimi             41.00      18/ 7/1979           M          previous_boss       
+Knez Mihajlo              Obrenovic            44.00       4/ 9/1823           M          hero                
+Dr. Karan                 Harbison             48.00       9/ 9/1951           N          faculty_mentor      
+Zeljka                    Kilibarda            49.00       9/12/1971           F          mom                 
+Chris                     McKay                52.50      19/ 5/1969           F          sister              
+Albert                    Matheny              58.00      15/10/1969           M          brother             
+Tim                       Mayor-Domo           58.00      23/ 2/1963           M          brother-in-law      
+Alan                      Watts                58.00       6/ 1/1915           M          spirit_guide        
+Stanley                   Son Jae              63.00      29/ 9/1958           N          friend              
+John Nathan               Colcord              71.00      12/ 2/1950           M          spouse              
+Sandra Carter             Williams Schou       74.00      23/ 9/1935           F          mother              
+Moto-Moto                 Madagascar           74.00      14/11/1947           F          neighbor            
+Donald John               Trump                75.00      14/ 6/1946           M          president           
+Mildred Carter McKay      Williams             102.00     20/ 9/1902           F          grandmother         
+
+
+Sorting relationships alphabetically.
+
+First                     Last                 Age        Birthday             Gender     Relationship        
+======================================================================================================
+
+Jermaine                  Cole                 36.00      28/ 1/1985           M          barber              
+Stefan                    Kilibarda            25.00      26/ 4/1996           M          brother             
+Albert                    Matheny              58.00      15/10/1969           M          brother             
+Tim                       Mayor-Domo           58.00      23/ 2/1963           M          brother-in-law      
+Amelie44                  Kitty-cat            1.50       20/ 5/2020           U          cat                 
+Li                        Jui Tseng            21.00      18/10/2000           M          classmate           
+Dale                      Vetenari-Vines       28.00       8/ 8/2001           U          colleague           
+Dr. Karan                 Harbison             48.00       9/ 9/1951           N          faculty_mentor      
+Jovana Kuro               Djuro                21.00      22/ 1/2000           M          friend              
+Liz                       Patel                30.00      20/12/1991           F          friend              
+Stanley                   Son Jae              63.00      29/ 9/1958           N          friend              
+Holly                     Lane                 0.75       13/ 3/2021           F          goddaughter         
+Mildred Carter McKay      Williams             102.00     20/ 9/1902           F          grandmother         
+Kermit                    The Frog             18.00       9/ 5/1955           M          hero                
+Knez Mihajlo              Obrenovic            44.00       4/ 9/1823           M          hero                
+Zeljka                    Kilibarda            49.00       9/12/1971           F          mom                 
+Sandra Carter             Williams Schou       74.00      23/ 9/1935           F          mother              
+Moto-Moto                 Madagascar           74.00      14/11/1947           F          neighbor            
+Donald John               Trump                75.00      14/ 6/1946           M          president           
+Ahmed                     Ebrahimi             41.00      18/ 7/1979           M          previous_boss       
+Marko                     Losic                22.00      16/11/1999           M          roommate            
+Chris                     McKay                52.50      19/ 5/1969           F          sister              
+Alan                      Watts                58.00       6/ 1/1915           M          spirit_guide        
+John Nathan               Colcord              71.00      12/ 2/1950           M          spouse              
+
+
+Sorting the last names alphabetically.
+
+First                     Last                 Age        Birthday             Gender     Relationship        
+======================================================================================================
+
+John Nathan               Colcord              71.00      12/ 2/1950           M          spouse              
+Jermaine                  Cole                 36.00      28/ 1/1985           M          barber              
+Jovana Kuro               Djuro                21.00      22/ 1/2000           M          friend              
+Ahmed                     Ebrahimi             41.00      18/ 7/1979           M          previous_boss       
+Dr. Karan                 Harbison             48.00       9/ 9/1951           N          faculty_mentor      
+Li                        Jui Tseng            21.00      18/10/2000           M          classmate           
+Stefan                    Kilibarda            25.00      26/ 4/1996           M          brother             
+Zeljka                    Kilibarda            49.00       9/12/1971           F          mom                 
+Amelie44                  Kitty-cat            1.50       20/ 5/2020           U          cat                 
+Holly                     Lane                 0.75       13/ 3/2021           F          goddaughter         
+Marko                     Losic                22.00      16/11/1999           M          roommate            
+Moto-Moto                 Madagascar           74.00      14/11/1947           F          neighbor            
+Albert                    Matheny              58.00      15/10/1969           M          brother             
+Tim                       Mayor-Domo           58.00      23/ 2/1963           M          brother-in-law      
+Chris                     McKay                52.50      19/ 5/1969           F          sister              
+Knez Mihajlo              Obrenovic            44.00       4/ 9/1823           M          hero                
+Liz                       Patel                30.00      20/12/1991           F          friend              
+Stanley                   Son Jae              63.00      29/ 9/1958           N          friend              
+Kermit                    The Frog             18.00       9/ 5/1955           M          hero                
+Donald John               Trump                75.00      14/ 6/1946           M          president           
+Dale                      Vetenari-Vines       28.00       8/ 8/2001           U          colleague           
+Alan                      Watts                58.00       6/ 1/1915           M          spirit_guide        
+Mildred Carter McKay      Williams             102.00     20/ 9/1902           F          grandmother         
+Sandra Carter             Williams Schou       74.00      23/ 9/1935           F          mother              
+
+
+Sorting birthdays from earliest to latest in a year.
+
+First                     Last                 Age        Birthday             Gender     Relationship        
+======================================================================================================
+
+Alan                      Watts                58.00       6/ 1/1915           M          spirit_guide        
+Jovana Kuro               Djuro                21.00      22/ 1/2000           M          friend              
+Jermaine                  Cole                 36.00      28/ 1/1985           M          barber              
+John Nathan               Colcord              71.00      12/ 2/1950           M          spouse              
+Tim                       Mayor-Domo           58.00      23/ 2/1963           M          brother-in-law      
+Holly                     Lane                 0.75       13/ 3/2021           F          goddaughter         
+Stefan                    Kilibarda            25.00      26/ 4/1996           M          brother             
+Kermit                    The Frog             18.00       9/ 5/1955           M          hero                
+Chris                     McKay                52.50      19/ 5/1969           F          sister              
+Amelie44                  Kitty-cat            1.50       20/ 5/2020           U          cat                 
+Donald John               Trump                75.00      14/ 6/1946           M          president           
+Ahmed                     Ebrahimi             41.00      18/ 7/1979           M          previous_boss       
+Dale                      Vetenari-Vines       28.00       8/ 8/2001           U          colleague           
+Knez Mihajlo              Obrenovic            44.00       4/ 9/1823           M          hero                
+Dr. Karan                 Harbison             48.00       9/ 9/1951           N          faculty_mentor      
+Mildred Carter McKay      Williams             102.00     20/ 9/1902           F          grandmother         
+Sandra Carter             Williams Schou       74.00      23/ 9/1935           F          mother              
+Stanley                   Son Jae              63.00      29/ 9/1958           N          friend              
+Albert                    Matheny              58.00      15/10/1969           M          brother             
+Li                        Jui Tseng            21.00      18/10/2000           M          classmate           
+Moto-Moto                 Madagascar           74.00      14/11/1947           F          neighbor            
+Marko                     Losic                22.00      16/11/1999           M          roommate            
+Zeljka                    Kilibarda            49.00       9/12/1971           F          mom                 
+Liz                       Patel                30.00      20/12/1991           F          friend              
